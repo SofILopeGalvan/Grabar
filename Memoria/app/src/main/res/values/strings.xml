@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sensores</string>
+    <string name="hello">Hola</string>
+    <string name="etiqSensorDeOrientacion">Sensor de Orientacion</string>
+    <string name="etiqSensorDeMovimiento">Sensor de Movimiento</string>
+    <string name="menu_settings">Menu</string>
+</resources>
